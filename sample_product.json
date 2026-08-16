@@ -1,0 +1,98 @@
+{
+  "displayCategoryCode": 0,
+  "sellerProductName": "샘플 상품 - 실제 등록 전 수정",
+  "vendorId": "YOUR_VENDOR_ID",
+  "saleStartedAt": "2026-08-16T00:00:00",
+  "saleEndedAt": "2099-01-01T23:59:59",
+  "displayProductName": "샘플 브랜드 샘플 상품",
+  "brand": "샘플브랜드",
+  "generalProductName": "샘플 상품",
+  "productGroup": "샘플 상품군",
+  "deliveryMethod": "AGENT_BUY",
+  "deliveryCompanyCode": "CJGLS",
+  "deliveryChargeType": "FREE",
+  "deliveryCharge": 0,
+  "freeShipOverAmount": 0,
+  "deliveryChargeOnReturn": 5000,
+  "remoteAreaDeliverable": "N",
+  "unionDeliveryType": "NOT_UNION_DELIVERY",
+  "returnCenterCode": "YOUR_RETURN_CENTER_CODE",
+  "returnChargeName": "YOUR_RETURN_CENTER_NAME",
+  "companyContactNumber": "010-0000-0000",
+  "returnZipCode": "00000",
+  "returnAddress": "국내 반품지 주소",
+  "returnAddressDetail": "상세주소",
+  "returnCharge": 5000,
+  "outboundShippingPlaceCode": 0,
+  "vendorUserId": "YOUR_WING_LOGIN_ID",
+  "requested": false,
+  "items": [
+    {
+      "itemName": "샘플 옵션",
+      "originalPrice": 50000,
+      "salePrice": 44900,
+      "maximumBuyCount": 100,
+      "maximumBuyForPerson": 0,
+      "outboundShippingTimeDay": 5,
+      "maximumBuyForPersonPeriod": 1,
+      "unitCount": 1,
+      "adultOnly": "EVERYONE",
+      "taxType": "TAX",
+      "parallelImported": "NOT_PARALLEL_IMPORTED",
+      "overseasPurchased": "OVERSEAS_PURCHASED",
+      "pccNeeded": true,
+      "externalVendorSku": "SAMPLE-001",
+      "certifications": [
+        {
+          "certificationType": "NOT_REQUIRED",
+          "certificationCode": ""
+        }
+      ],
+      "searchTags": [
+        "샘플"
+      ],
+      "images": [
+        {
+          "imageOrder": 0,
+          "imageType": "REPRESENTATION",
+          "vendorPath": "https://example.com/product.jpg"
+        }
+      ],
+      "notices": [
+        {
+          "noticeCategoryName": "기타 재화",
+          "noticeCategoryDetailName": "품명 및 모델명",
+          "content": "상세페이지 참조"
+        }
+      ],
+      "attributes": [
+        {
+          "attributeTypeName": "Manufacturer Part Number",
+          "attributeValueName": "MODEL-001",
+          "exposed": "NONE"
+        },
+        {
+          "attributeTypeName": "수량",
+          "attributeValueName": "1개"
+        }
+      ],
+      "contents": [
+        {
+          "contentsType": "TEXT",
+          "contentDetails": [
+            {
+              "content": "<html><body><p>상세페이지 내용</p></body></html>",
+              "detailType": "TEXT"
+            }
+          ]
+        }
+      ],
+      "offerCondition": "NEW",
+      "offerDescription": ""
+    }
+  ],
+  "manufacture": "샘플 제조사",
+  "bundleInfo": {
+    "bundleType": "SINGLE"
+  }
+}
